@@ -1,0 +1,3545 @@
+{
+    "nextPageToken": {
+        "failedEventOffset": true,
+        "lastRowIdx": 0,
+        "limit": 0,
+        "offset": 0,
+        "previousTotalMatchedCount": 0,
+        "timestamp": 0
+    },
+    "pageSize": 0,
+    "resources": [
+        {
+            "accountId": "D4CNGLU9YZ",
+            "accountName": "A596NDL0WF",
+            "alertStatus": {
+                "critical": 10,
+                "high": 2,
+                "informational": 9,
+                "low": 7,
+                "medium": 8
+            },
+            "appNames": [
+                "M5RDA7YJMX"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "6UBAV7SLNC",
+            "name": "4C3GA7LXYK",
+            "overallPassed": false,
+            "regionId": "B3H0YWE0K3",
+            "regionName": "FUU8ZFEIQ9",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "B7RAF3CCOE",
+            "scannedPolicies": [
+                {
+                    "id": "1TCSO1UJKP",
+                    "labels": [
+                        "LQW2Q2M1DR",
+                        "PW5D4JQ835",
+                        "QYWC0V4CSX"
+                    ],
+                    "name": "0MD4CLOSNV",
+                    "passed": false,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "O8VNCJKAQM",
+            "vulnerabilityStatus": {
+                "critical": 0,
+                "high": 1,
+                "low": 8,
+                "medium": 2
+            }
+        },
+        {
+            "accountId": "KYDNIBOL8T",
+            "accountName": "BVH9WPQUEI",
+            "alertStatus": {
+                "critical": 1,
+                "high": 9,
+                "informational": 3,
+                "low": 8,
+                "medium": 0
+            },
+            "appNames": [
+                "DCAJUHGXEG",
+                "RZTIH5LD8G"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "RWATD9DRQR",
+            "name": "IRTDAFR2EP",
+            "overallPassed": true,
+            "regionId": "40K6LTSWKA",
+            "regionName": "LIVHNJ03WX",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "EVZWR0E2HR",
+            "scannedPolicies": [
+                {
+                    "id": "YA5K32WV4Z",
+                    "labels": [
+                        "JK3IA85MVN",
+                        "2NQY4FFDAZ"
+                    ],
+                    "name": "53LO3OFBH3",
+                    "passed": true,
+                    "severity": "HIGH"
+                }
+            ],
+            "unifiedAssetId": "Z08V9SYFR8",
+            "vulnerabilityStatus": {
+                "critical": 4,
+                "high": 4,
+                "low": 3,
+                "medium": 9
+            }
+        },
+        {
+            "accountId": "O607334BU1",
+            "accountName": "T7HK9LVHUA",
+            "alertStatus": {
+                "critical": 10,
+                "high": 0,
+                "informational": 6,
+                "low": 7,
+                "medium": 8
+            },
+            "appNames": [
+                "GVYQEHU679",
+                "04JQZCIYQF",
+                "2HQXUO4715"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "NW0D6YPXD7",
+            "name": "2REN739GPG",
+            "overallPassed": false,
+            "regionId": "E6HQ89OYQ7",
+            "regionName": "FA7PIT3YVR",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "N4CJEJ8MNS",
+            "scannedPolicies": [
+                {
+                    "id": "G9ODTJ521D",
+                    "labels": [
+                        "1EET1GII6D",
+                        "G6J89Q4FT7",
+                        "KNUVWLHL0H"
+                    ],
+                    "name": "9R3L67EIWL",
+                    "passed": false,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "PGET6K5L2S",
+            "vulnerabilityStatus": {
+                "critical": 7,
+                "high": 3,
+                "low": 9,
+                "medium": 2
+            }
+        },
+        {
+            "accountId": "ZYEANIO8RZ",
+            "accountName": "D17L10VYFU",
+            "alertStatus": {
+                "critical": 3,
+                "high": 9,
+                "informational": 6,
+                "low": 3,
+                "medium": 8
+            },
+            "appNames": [
+                "ARJLEYD3JV",
+                "DLMUJCAXXL"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "M6CY5THQCE",
+            "name": "BC9E3ZSX9T",
+            "overallPassed": true,
+            "regionId": "70UPW2ST67",
+            "regionName": "MRKX3LEX81",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "CI5P6NI8ZN",
+            "scannedPolicies": [
+                {
+                    "id": "PSFKVJ82NW",
+                    "labels": [
+                        "QCOGBUICAK"
+                    ],
+                    "name": "GK4W73NXJS",
+                    "passed": true,
+                    "severity": "HIGH"
+                }
+            ],
+            "unifiedAssetId": "OKC23QDRHX",
+            "vulnerabilityStatus": {
+                "critical": 3,
+                "high": 6,
+                "low": 7,
+                "medium": 2
+            }
+        },
+        {
+            "accountId": "GDZOV2H4G7",
+            "accountName": "MRF129HI49",
+            "alertStatus": {
+                "critical": 9,
+                "high": 1,
+                "informational": 5,
+                "low": 5,
+                "medium": 9
+            },
+            "appNames": [
+                "L4ZILW58RS",
+                "YC9DWMHWC3",
+                "WBFOGOBOL2"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "IVZPP0KQYM",
+            "name": "07F6K6V1HK",
+            "overallPassed": false,
+            "regionId": "61XZ0A4L8V",
+            "regionName": "EDUA9Q62IF",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "B8LQM4YB52",
+            "scannedPolicies": [
+                {
+                    "id": "980OQP7YWN",
+                    "labels": [
+                        "H5415XMY05"
+                    ],
+                    "name": "88IPRKE7BJ",
+                    "passed": true,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "E8FVWVYEUZ",
+            "vulnerabilityStatus": {
+                "critical": 0,
+                "high": 8,
+                "low": 5,
+                "medium": 3
+            }
+        },
+        {
+            "accountId": "96ODPGK1Z2",
+            "accountName": "FUG7RJ7Q6C",
+            "alertStatus": {
+                "critical": 5,
+                "high": 7,
+                "informational": 5,
+                "low": 4,
+                "medium": 2
+            },
+            "appNames": [
+                "HZ1S58ACGW"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "9TQRBTW9OH",
+            "name": "9GI6DR5AZN",
+            "overallPassed": false,
+            "regionId": "9ODU5NE2GA",
+            "regionName": "LGJYHBHGYD",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "7YVOMWW385",
+            "scannedPolicies": [
+                {
+                    "id": "F5CSDVCX68",
+                    "labels": [
+                        "OLYTRE4NEF",
+                        "7JR5XMMRMS"
+                    ],
+                    "name": "U8WJ201S03",
+                    "passed": false,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "JS0978JAKC",
+            "vulnerabilityStatus": {
+                "critical": 5,
+                "high": 3,
+                "low": 10,
+                "medium": 5
+            }
+        },
+        {
+            "accountId": "VF1HJHYSAM",
+            "accountName": "N88A9JKTLU",
+            "alertStatus": {
+                "critical": 6,
+                "high": 0,
+                "informational": 1,
+                "low": 7,
+                "medium": 1
+            },
+            "appNames": [
+                "4094446KCX"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "SLXJOK6ZM0",
+            "name": "PDGCCA9R6U",
+            "overallPassed": true,
+            "regionId": "ICFLLTSMAM",
+            "regionName": "Q9CRK84T68",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "RXTOA8BU8H",
+            "scannedPolicies": [
+                {
+                    "id": "1LMN23731W",
+                    "labels": [
+                        "DXADJZT8OV",
+                        "FWVDHQUT79"
+                    ],
+                    "name": "VGU2EBDHHC",
+                    "passed": true,
+                    "severity": "LOW"
+                }
+            ],
+            "unifiedAssetId": "CH57X6EJNR",
+            "vulnerabilityStatus": {
+                "critical": 1,
+                "high": 3,
+                "low": 9,
+                "medium": 4
+            }
+        },
+        {
+            "accountId": "FFX4Y2H4YO",
+            "accountName": "B1E4KNRMUT",
+            "alertStatus": {
+                "critical": 6,
+                "high": 5,
+                "informational": 6,
+                "low": 6,
+                "medium": 7
+            },
+            "appNames": [
+                "OEWDEFYZ1Q"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "Y65IQ5ZF5M",
+            "name": "TSBX7J6GS5",
+            "overallPassed": true,
+            "regionId": "DNCAUELSUT",
+            "regionName": "QAE0RG0LUP",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "6L8NGYB9M9",
+            "scannedPolicies": [
+                {
+                    "id": "8LBBDYOT8K",
+                    "labels": [
+                        "BF5KEI3ZLB",
+                        "VBI93STJ2O"
+                    ],
+                    "name": "YXU7CFTIRX",
+                    "passed": false,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "J5VC57YY1F",
+            "vulnerabilityStatus": {
+                "critical": 2,
+                "high": 10,
+                "low": 0,
+                "medium": 9
+            }
+        },
+        {
+            "accountId": "JCTLHX1HRT",
+            "accountName": "R1H8JQL8QE",
+            "alertStatus": {
+                "critical": 1,
+                "high": 9,
+                "informational": 3,
+                "low": 8,
+                "medium": 3
+            },
+            "appNames": [
+                "80DT0SW64F",
+                "K0UF70LXO4"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "VI5ZOU8MJR",
+            "name": "NLJFGBDJPN",
+            "overallPassed": true,
+            "regionId": "E5MHTGZ96Z",
+            "regionName": "VL2OT9BUM1",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "D87OCUBE8U",
+            "scannedPolicies": [
+                {
+                    "id": "P0Q361KT0G",
+                    "labels": [
+                        "7M0DD703V3"
+                    ],
+                    "name": "9G0T3Z7Z5M",
+                    "passed": false,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "SIR8IYI06E",
+            "vulnerabilityStatus": {
+                "critical": 3,
+                "high": 7,
+                "low": 5,
+                "medium": 3
+            }
+        },
+        {
+            "accountId": "TFLRFYR5VG",
+            "accountName": "IPR7A7V37J",
+            "alertStatus": {
+                "critical": 0,
+                "high": 3,
+                "informational": 10,
+                "low": 9,
+                "medium": 4
+            },
+            "appNames": [
+                "SMW2XBWYDB"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "XLU0MS5X50",
+            "name": "6J8QIKFZPV",
+            "overallPassed": false,
+            "regionId": "31KT647ILT",
+            "regionName": "6UFIOZ8M0Z",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "FPU60WX8XP",
+            "scannedPolicies": [
+                {
+                    "id": "WQUYZM5UQC",
+                    "labels": [
+                        "O272G98G1G"
+                    ],
+                    "name": "ZCPVYZYRB0",
+                    "passed": true,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "HP0KQWK8QG",
+            "vulnerabilityStatus": {
+                "critical": 7,
+                "high": 9,
+                "low": 9,
+                "medium": 9
+            }
+        },
+        {
+            "accountId": "N2LHOBX1TG",
+            "accountName": "D50C2W06FO",
+            "alertStatus": {
+                "critical": 6,
+                "high": 10,
+                "informational": 9,
+                "low": 6,
+                "medium": 10
+            },
+            "appNames": [
+                "KFPYNBSDH3",
+                "TLT8INZNC6",
+                "ZVSDL5BOXO"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "3IITTNQRH0",
+            "name": "YL1199QKZW",
+            "overallPassed": true,
+            "regionId": "A4H4TGJG74",
+            "regionName": "WFZVTRQWNH",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "C48U5RJBDA",
+            "scannedPolicies": [
+                {
+                    "id": "WPASNWMVRL",
+                    "labels": [
+                        "UROTJDYEXN",
+                        "BKW5Q4211A",
+                        "TI91LDBPLW"
+                    ],
+                    "name": "9L8G6PID5H",
+                    "passed": true,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "KEDKEPF2Y1",
+            "vulnerabilityStatus": {
+                "critical": 8,
+                "high": 6,
+                "low": 6,
+                "medium": 10
+            }
+        },
+        {
+            "accountId": "7BN5WNLS2G",
+            "accountName": "OI9HAU2L6L",
+            "alertStatus": {
+                "critical": 1,
+                "high": 5,
+                "informational": 0,
+                "low": 1,
+                "medium": 8
+            },
+            "appNames": [
+                "27ER87T9MM"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "SNQ5I2EB5K",
+            "name": "WQNAT403OR",
+            "overallPassed": true,
+            "regionId": "MTBUMDCXEB",
+            "regionName": "ILHXIADDX6",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "KZWUKP4E7Y",
+            "scannedPolicies": [
+                {
+                    "id": "QFILG9QX88",
+                    "labels": [
+                        "SDJWDIVNJ1",
+                        "J9DB6PQECL"
+                    ],
+                    "name": "6GTNCMS6PO",
+                    "passed": true,
+                    "severity": "HIGH"
+                }
+            ],
+            "unifiedAssetId": "PU8MSX16GG",
+            "vulnerabilityStatus": {
+                "critical": 10,
+                "high": 4,
+                "low": 6,
+                "medium": 0
+            }
+        },
+        {
+            "accountId": "79VHJ0KXL5",
+            "accountName": "QDWC6Y8K79",
+            "alertStatus": {
+                "critical": 7,
+                "high": 2,
+                "informational": 9,
+                "low": 1,
+                "medium": 7
+            },
+            "appNames": [
+                "5HM8747ETW"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "Z9VPF0GU2P",
+            "name": "D2FMZTTQW7",
+            "overallPassed": true,
+            "regionId": "SJOHXWA7NJ",
+            "regionName": "0T6YQNPL28",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "95CSBDVCWH",
+            "scannedPolicies": [
+                {
+                    "id": "KLGZZ6FN2K",
+                    "labels": [
+                        "X1Q08WZWA6",
+                        "ROKB2ECHYI",
+                        "EAEB5KSQZE"
+                    ],
+                    "name": "FT8680BHUM",
+                    "passed": true,
+                    "severity": "HIGH"
+                }
+            ],
+            "unifiedAssetId": "OLM80MYV35",
+            "vulnerabilityStatus": {
+                "critical": 2,
+                "high": 0,
+                "low": 2,
+                "medium": 8
+            }
+        },
+        {
+            "accountId": "YOLF2X5CLD",
+            "accountName": "N6RRFSO6LC",
+            "alertStatus": {
+                "critical": 3,
+                "high": 6,
+                "informational": 3,
+                "low": 5,
+                "medium": 4
+            },
+            "appNames": [
+                "AV0DL3TN0S",
+                "2SSR7R4M0S"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "T67I6GYZJD",
+            "name": "27PTLD1U27",
+            "overallPassed": true,
+            "regionId": "K9QPRLJFYH",
+            "regionName": "ZQYH92DX5J",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "YYR4YWTBPD",
+            "scannedPolicies": [
+                {
+                    "id": "RG8VDSF0SG",
+                    "labels": [
+                        "04DTRW36ZN"
+                    ],
+                    "name": "1E0F06SRR1",
+                    "passed": true,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "9P7LZNSFEP",
+            "vulnerabilityStatus": {
+                "critical": 0,
+                "high": 6,
+                "low": 2,
+                "medium": 10
+            }
+        },
+        {
+            "accountId": "21RDOQANHF",
+            "accountName": "XYWZXWR5ZY",
+            "alertStatus": {
+                "critical": 10,
+                "high": 9,
+                "informational": 3,
+                "low": 1,
+                "medium": 6
+            },
+            "appNames": [
+                "14K3I7UIOZ",
+                "YZ7W497YRG",
+                "9CMWUYB7ZU"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "8HOL8RU587",
+            "name": "TU6OHJIVDI",
+            "overallPassed": false,
+            "regionId": "BXPGPSM62K",
+            "regionName": "GKY9DYG02U",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "625RTY3W4S",
+            "scannedPolicies": [
+                {
+                    "id": "C53304FOK4",
+                    "labels": [
+                        "I7QNQ61MIC"
+                    ],
+                    "name": "RFC6PZHIZO",
+                    "passed": true,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "SFWYFLURBI",
+            "vulnerabilityStatus": {
+                "critical": 7,
+                "high": 6,
+                "low": 7,
+                "medium": 6
+            }
+        },
+        {
+            "accountId": "1HIU4AZC6N",
+            "accountName": "YSDB2DJF23",
+            "alertStatus": {
+                "critical": 1,
+                "high": 4,
+                "informational": 1,
+                "low": 6,
+                "medium": 5
+            },
+            "appNames": [
+                "AAI9YEZ0W1",
+                "5KBKJHIW2T",
+                "HDSWKT0Y7J"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "OFNRYIZGGA",
+            "name": "BCI5HBRNJV",
+            "overallPassed": false,
+            "regionId": "ZQ53O5A4UC",
+            "regionName": "3DSSF37T0W",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "ZSLGCMB7EF",
+            "scannedPolicies": [
+                {
+                    "id": "B22SO4O398",
+                    "labels": [
+                        "1XGVP1TGZ7",
+                        "2BRRJI0A0N",
+                        "SHPJYOS3ID"
+                    ],
+                    "name": "BQZNFWUOC4",
+                    "passed": false,
+                    "severity": "LOW"
+                }
+            ],
+            "unifiedAssetId": "MUBQOV2UPJ",
+            "vulnerabilityStatus": {
+                "critical": 8,
+                "high": 0,
+                "low": 5,
+                "medium": 1
+            }
+        },
+        {
+            "accountId": "TMWWCB4F46",
+            "accountName": "IM16SHEELL",
+            "alertStatus": {
+                "critical": 3,
+                "high": 3,
+                "informational": 8,
+                "low": 5,
+                "medium": 2
+            },
+            "appNames": [
+                "CFDJKYL218",
+                "U64D907HT0"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "77FE53WK3C",
+            "name": "H3R2CS9CM8",
+            "overallPassed": true,
+            "regionId": "V72LZ6OMA1",
+            "regionName": "5Z14MWGR6K",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "0BPV2PAEMP",
+            "scannedPolicies": [
+                {
+                    "id": "DHWNB8S6KT",
+                    "labels": [
+                        "VFKF3L44PA"
+                    ],
+                    "name": "OX8LXBWMJL",
+                    "passed": true,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "KW2JAIPV4Q",
+            "vulnerabilityStatus": {
+                "critical": 0,
+                "high": 4,
+                "low": 6,
+                "medium": 4
+            }
+        },
+        {
+            "accountId": "QTWXJHZP3H",
+            "accountName": "ECRQ3SSXQX",
+            "alertStatus": {
+                "critical": 6,
+                "high": 4,
+                "informational": 7,
+                "low": 3,
+                "medium": 2
+            },
+            "appNames": [
+                "GSP2349VMO",
+                "8CPQNZ7CPF",
+                "GXAM9RJ5L8"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "FKGBWX0K4E",
+            "name": "IGOC8MZFN5",
+            "overallPassed": true,
+            "regionId": "C81EVIO9AW",
+            "regionName": "ODC8RQZUPJ",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "22UI9KSVGJ",
+            "scannedPolicies": [
+                {
+                    "id": "7988XV7THT",
+                    "labels": [
+                        "BVRQ4KQ8WJ"
+                    ],
+                    "name": "SHNCOWQWGK",
+                    "passed": true,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "9BUVBD8J5B",
+            "vulnerabilityStatus": {
+                "critical": 10,
+                "high": 8,
+                "low": 5,
+                "medium": 2
+            }
+        },
+        {
+            "accountId": "E2IMX6RBZE",
+            "accountName": "EGJSEXR8FH",
+            "alertStatus": {
+                "critical": 3,
+                "high": 5,
+                "informational": 10,
+                "low": 6,
+                "medium": 9
+            },
+            "appNames": [
+                "6IBMGXZOBQ",
+                "3NNSMQVT4P",
+                "9Z7GWCZD4B"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "DYZ42M54NC",
+            "name": "DTH4DXW50N",
+            "overallPassed": false,
+            "regionId": "VL9UR228R0",
+            "regionName": "G6C8ONBYBD",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "8QRI7HB76D",
+            "scannedPolicies": [
+                {
+                    "id": "QYMJSZDYSG",
+                    "labels": [
+                        "3PNGN8XORY",
+                        "7CH87KZ448"
+                    ],
+                    "name": "E0RYCFILRT",
+                    "passed": true,
+                    "severity": "LOW"
+                }
+            ],
+            "unifiedAssetId": "19M8NTKC3O",
+            "vulnerabilityStatus": {
+                "critical": 9,
+                "high": 0,
+                "low": 6,
+                "medium": 6
+            }
+        },
+        {
+            "accountId": "YCHPQHYZZI",
+            "accountName": "CA4NHJOICO",
+            "alertStatus": {
+                "critical": 4,
+                "high": 1,
+                "informational": 0,
+                "low": 8,
+                "medium": 10
+            },
+            "appNames": [
+                "MQYHSNF38U",
+                "VXM39JSOK7",
+                "87P0NMD5G3"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "BNS8URESFC",
+            "name": "N0T5VCNCL8",
+            "overallPassed": false,
+            "regionId": "NAJGZDZ2H9",
+            "regionName": "0EX9JJ5GPC",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "XM9AQG3HE0",
+            "scannedPolicies": [
+                {
+                    "id": "9F2CTY02PG",
+                    "labels": [
+                        "U1M0CGCD2B",
+                        "3SC5WUVDKH",
+                        "K88YSIB9PC"
+                    ],
+                    "name": "3O7NVEQMKX",
+                    "passed": true,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "L4E1UFCQWR",
+            "vulnerabilityStatus": {
+                "critical": 10,
+                "high": 9,
+                "low": 10,
+                "medium": 8
+            }
+        },
+        {
+            "accountId": "Q3B7GWSHN9",
+            "accountName": "2OYY6X8BO1",
+            "alertStatus": {
+                "critical": 3,
+                "high": 6,
+                "informational": 10,
+                "low": 8,
+                "medium": 0
+            },
+            "appNames": [
+                "HNQ4RZ78M4"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "YIWW7Q77Q9",
+            "name": "SRZKBVUOMJ",
+            "overallPassed": true,
+            "regionId": "0FM3RN6KHK",
+            "regionName": "AWZ2HI4D8M",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "EMFVWMEQ8Y",
+            "scannedPolicies": [
+                {
+                    "id": "DHKWC2UIOW",
+                    "labels": [
+                        "UENH8K15IW",
+                        "P1JCTU2GAT",
+                        "LZKJIRLYNV"
+                    ],
+                    "name": "U7BQXM8XFK",
+                    "passed": false,
+                    "severity": "LOW"
+                }
+            ],
+            "unifiedAssetId": "GAGDJ0AMJK",
+            "vulnerabilityStatus": {
+                "critical": 2,
+                "high": 10,
+                "low": 7,
+                "medium": 3
+            }
+        },
+        {
+            "accountId": "V8W9QJY4LU",
+            "accountName": "7I0LJZ3OER",
+            "alertStatus": {
+                "critical": 6,
+                "high": 5,
+                "informational": 1,
+                "low": 10,
+                "medium": 8
+            },
+            "appNames": [
+                "S5A5N4S3E2",
+                "INTX35R5O1"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "O6EJADT3ZI",
+            "name": "7AII9GU37P",
+            "overallPassed": true,
+            "regionId": "6IN4N71EVJ",
+            "regionName": "9RE03GU9GR",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "CFRRLVA4XQ",
+            "scannedPolicies": [
+                {
+                    "id": "77MHJQW4ON",
+                    "labels": [
+                        "E0FGK21VME",
+                        "S8SVEU3YIU"
+                    ],
+                    "name": "LRULR2S8HT",
+                    "passed": true,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "BIJDSAPRE6",
+            "vulnerabilityStatus": {
+                "critical": 8,
+                "high": 3,
+                "low": 10,
+                "medium": 7
+            }
+        },
+        {
+            "accountId": "EJC66H921X",
+            "accountName": "114HZSUHXF",
+            "alertStatus": {
+                "critical": 0,
+                "high": 3,
+                "informational": 10,
+                "low": 7,
+                "medium": 7
+            },
+            "appNames": [
+                "GWEMOF1HU6"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "E5SSKLJR2N",
+            "name": "DXSFJL3GLT",
+            "overallPassed": false,
+            "regionId": "H52KYJLB8J",
+            "regionName": "1G64U2IT9D",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "ICN4EV1WDI",
+            "scannedPolicies": [
+                {
+                    "id": "TSOZHIYFC8",
+                    "labels": [
+                        "CC7ICGKR6Q",
+                        "HMIDLO91KP",
+                        "YIEGL8GB5K"
+                    ],
+                    "name": "7VQCHVH8AN",
+                    "passed": true,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "8IEN50GEYI",
+            "vulnerabilityStatus": {
+                "critical": 1,
+                "high": 0,
+                "low": 6,
+                "medium": 5
+            }
+        },
+        {
+            "accountId": "TXO5SCL0OQ",
+            "accountName": "PFO3A2F596",
+            "alertStatus": {
+                "critical": 8,
+                "high": 5,
+                "informational": 6,
+                "low": 7,
+                "medium": 0
+            },
+            "appNames": [
+                "5X8TAXHGYP",
+                "8YYWQVUXGE",
+                "VN1GX3W9M0"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "O23R8AEOTL",
+            "name": "Q4MPJW7SMK",
+            "overallPassed": false,
+            "regionId": "IKKQG31RD0",
+            "regionName": "QV377AVXFE",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "9YZWNMWB0W",
+            "scannedPolicies": [
+                {
+                    "id": "QN76IN5M1F",
+                    "labels": [
+                        "KU3LNSDM8B",
+                        "SI6EP82EDW"
+                    ],
+                    "name": "R34T26BB8B",
+                    "passed": false,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "1PCKP0DXIV",
+            "vulnerabilityStatus": {
+                "critical": 4,
+                "high": 9,
+                "low": 1,
+                "medium": 5
+            }
+        },
+        {
+            "accountId": "Q9V7DO36K3",
+            "accountName": "FWBJ58DE49",
+            "alertStatus": {
+                "critical": 6,
+                "high": 2,
+                "informational": 6,
+                "low": 3,
+                "medium": 9
+            },
+            "appNames": [
+                "BYHUJIXJM6"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "GIVMV2O55Q",
+            "name": "IVU0VV7NIK",
+            "overallPassed": true,
+            "regionId": "65DCLV2ZES",
+            "regionName": "DN0HD85ZJD",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "2A3LDFI81D",
+            "scannedPolicies": [
+                {
+                    "id": "8CT56EI24N",
+                    "labels": [
+                        "44LR8W2HQB",
+                        "5Q1FFTRDCE",
+                        "ZTHPH0TVNS"
+                    ],
+                    "name": "QM7B3XBNXI",
+                    "passed": true,
+                    "severity": "LOW"
+                }
+            ],
+            "unifiedAssetId": "DRGX9XPAV9",
+            "vulnerabilityStatus": {
+                "critical": 5,
+                "high": 4,
+                "low": 5,
+                "medium": 3
+            }
+        },
+        {
+            "accountId": "CF1LRP8A2L",
+            "accountName": "ROIEIMO7P8",
+            "alertStatus": {
+                "critical": 7,
+                "high": 9,
+                "informational": 9,
+                "low": 0,
+                "medium": 0
+            },
+            "appNames": [
+                "TUKBDX5NI3",
+                "YW9D3O0HFD",
+                "L48X4UGKPV"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "LHZZVZCI12",
+            "name": "3J55CUJJW4",
+            "overallPassed": false,
+            "regionId": "5OCIX0GM57",
+            "regionName": "TGG4IG69FZ",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "J8G2I4IQYG",
+            "scannedPolicies": [
+                {
+                    "id": "8SXDQ3X89Y",
+                    "labels": [
+                        "75UWSIX76A",
+                        "AE4OO5N4S9",
+                        "TFBT3VACFR"
+                    ],
+                    "name": "4JTFJCIXP2",
+                    "passed": false,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "TC6BVD8KJG",
+            "vulnerabilityStatus": {
+                "critical": 0,
+                "high": 7,
+                "low": 5,
+                "medium": 10
+            }
+        },
+        {
+            "accountId": "9XJMQ2B5WM",
+            "accountName": "2C09IWVM7L",
+            "alertStatus": {
+                "critical": 7,
+                "high": 7,
+                "informational": 6,
+                "low": 4,
+                "medium": 0
+            },
+            "appNames": [
+                "HV4VVI3BYS"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "18U09XJYK3",
+            "name": "K1K9QM5PV9",
+            "overallPassed": true,
+            "regionId": "ZF2P2E1886",
+            "regionName": "XU787CLTRV",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "Z3OSNWOF0C",
+            "scannedPolicies": [
+                {
+                    "id": "X1BYH5L8A6",
+                    "labels": [
+                        "X2WMA01ZA0",
+                        "1KMMJ4DIXG",
+                        "I8GLW7S2VJ"
+                    ],
+                    "name": "XK9ZVY57ZX",
+                    "passed": true,
+                    "severity": "HIGH"
+                }
+            ],
+            "unifiedAssetId": "8YX4ZJIEZ0",
+            "vulnerabilityStatus": {
+                "critical": 8,
+                "high": 4,
+                "low": 0,
+                "medium": 8
+            }
+        },
+        {
+            "accountId": "O06CJQ9SMO",
+            "accountName": "O6B4VIMAN4",
+            "alertStatus": {
+                "critical": 0,
+                "high": 7,
+                "informational": 1,
+                "low": 3,
+                "medium": 10
+            },
+            "appNames": [
+                "3QF6EDUKYQ",
+                "2PR49ETBA8",
+                "SUAL0Q22OY"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "0ASGS5ZCWZ",
+            "name": "C133DKRR7Y",
+            "overallPassed": true,
+            "regionId": "0X1G93474C",
+            "regionName": "969VBPLJ2O",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "D1J9T787KR",
+            "scannedPolicies": [
+                {
+                    "id": "EWO9SNA2P9",
+                    "labels": [
+                        "72FAX1ISB5",
+                        "4JSE46KSO4",
+                        "7QH38CQBQQ"
+                    ],
+                    "name": "B1V2AELKF9",
+                    "passed": true,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "DMRWAFQXH5",
+            "vulnerabilityStatus": {
+                "critical": 4,
+                "high": 3,
+                "low": 0,
+                "medium": 5
+            }
+        },
+        {
+            "accountId": "9OTICOAO44",
+            "accountName": "M80ZJH8SZF",
+            "alertStatus": {
+                "critical": 1,
+                "high": 7,
+                "informational": 3,
+                "low": 4,
+                "medium": 8
+            },
+            "appNames": [
+                "0CVDQN4HAW",
+                "Y3HOG6XHLH"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "H5T82W1ZF2",
+            "name": "GGNIU29YWK",
+            "overallPassed": true,
+            "regionId": "IU971MRNVU",
+            "regionName": "3HEF9MIH8Y",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "3M704AN1GX",
+            "scannedPolicies": [
+                {
+                    "id": "RP29GVTRY9",
+                    "labels": [
+                        "ZMRDNU9NF8",
+                        "K1P70RZ0Q7",
+                        "Z5F1DJ4IIQ"
+                    ],
+                    "name": "X7YJKACKOX",
+                    "passed": true,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "OCZ0GDBYS7",
+            "vulnerabilityStatus": {
+                "critical": 6,
+                "high": 10,
+                "low": 4,
+                "medium": 7
+            }
+        },
+        {
+            "accountId": "VPAK45N0U1",
+            "accountName": "85ILISDHTE",
+            "alertStatus": {
+                "critical": 9,
+                "high": 0,
+                "informational": 1,
+                "low": 2,
+                "medium": 8
+            },
+            "appNames": [
+                "7NUKMUGF9S",
+                "VOXJ3WTIAQ"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "KIEJM8G85G",
+            "name": "B7H7C1T1XP",
+            "overallPassed": false,
+            "regionId": "MNH5DIIAHQ",
+            "regionName": "Y2UIURSHDP",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "ET6H3EIREQ",
+            "scannedPolicies": [
+                {
+                    "id": "MSTQLXYI4M",
+                    "labels": [
+                        "WSFBN4H6I3",
+                        "QINL7XS25M"
+                    ],
+                    "name": "I9ENYY28T3",
+                    "passed": true,
+                    "severity": "HIGH"
+                }
+            ],
+            "unifiedAssetId": "CBPYQK0QKS",
+            "vulnerabilityStatus": {
+                "critical": 8,
+                "high": 8,
+                "low": 8,
+                "medium": 5
+            }
+        },
+        {
+            "accountId": "VKIVMQG7FI",
+            "accountName": "INKKKP8PYY",
+            "alertStatus": {
+                "critical": 5,
+                "high": 10,
+                "informational": 5,
+                "low": 9,
+                "medium": 5
+            },
+            "appNames": [
+                "QJPKKZ65C7",
+                "MN5UCK5AUW",
+                "VMIRLL1E1L"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "8JY56S7I2P",
+            "name": "LH1SMDJ767",
+            "overallPassed": true,
+            "regionId": "UUHY0BN8J3",
+            "regionName": "W1M3YH3AUM",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "6GYEFQ17C2",
+            "scannedPolicies": [
+                {
+                    "id": "JOR1LT3GJ0",
+                    "labels": [
+                        "0X8JFIZZCW",
+                        "6OYVGVS7MK"
+                    ],
+                    "name": "OT15K8NWLQ",
+                    "passed": true,
+                    "severity": "HIGH"
+                }
+            ],
+            "unifiedAssetId": "21EBHLF6YU",
+            "vulnerabilityStatus": {
+                "critical": 8,
+                "high": 2,
+                "low": 6,
+                "medium": 0
+            }
+        },
+        {
+            "accountId": "8NKT1AZUCZ",
+            "accountName": "AAK0NH6FTO",
+            "alertStatus": {
+                "critical": 8,
+                "high": 3,
+                "informational": 10,
+                "low": 0,
+                "medium": 9
+            },
+            "appNames": [
+                "0QOCSX5EY9",
+                "XOJWMG84Z6"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "HW2CMVCUVO",
+            "name": "57FZSGXUD8",
+            "overallPassed": false,
+            "regionId": "HI0DU2XS2M",
+            "regionName": "PW4MH04K29",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "7Y46308DSS",
+            "scannedPolicies": [
+                {
+                    "id": "1OEKDXKWTN",
+                    "labels": [
+                        "04BJPMXKTP",
+                        "T9U9VJBZL2",
+                        "ON9KK8635H"
+                    ],
+                    "name": "0X4RNDNZ08",
+                    "passed": false,
+                    "severity": "HIGH"
+                }
+            ],
+            "unifiedAssetId": "QPUGPE7WGO",
+            "vulnerabilityStatus": {
+                "critical": 0,
+                "high": 7,
+                "low": 2,
+                "medium": 5
+            }
+        },
+        {
+            "accountId": "XSCFNZJMGN",
+            "accountName": "G9POZCKE5C",
+            "alertStatus": {
+                "critical": 2,
+                "high": 6,
+                "informational": 1,
+                "low": 2,
+                "medium": 0
+            },
+            "appNames": [
+                "5WUESB77LZ",
+                "F3JW8AEBO3"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "7TZPOKTWG4",
+            "name": "RO69UJLOEV",
+            "overallPassed": false,
+            "regionId": "KY20H0DT36",
+            "regionName": "H6XM2V0YUM",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "VUWL2UDFAN",
+            "scannedPolicies": [
+                {
+                    "id": "R1WIDIZDGL",
+                    "labels": [
+                        "DNQNXIOQ5V",
+                        "3GPB1ZRCFA"
+                    ],
+                    "name": "SH9A3SWU33",
+                    "passed": false,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "TD1RFMJFQ8",
+            "vulnerabilityStatus": {
+                "critical": 5,
+                "high": 8,
+                "low": 6,
+                "medium": 9
+            }
+        },
+        {
+            "accountId": "K5Q2ZS3WVP",
+            "accountName": "7BNIZ9RFIA",
+            "alertStatus": {
+                "critical": 1,
+                "high": 5,
+                "informational": 6,
+                "low": 6,
+                "medium": 5
+            },
+            "appNames": [
+                "72E7DQFBLG"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "PHN21H9KJD",
+            "name": "QAGPCVS0S9",
+            "overallPassed": false,
+            "regionId": "BVY574GEER",
+            "regionName": "X4ESWMFEG9",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "DNO3PCQ3DA",
+            "scannedPolicies": [
+                {
+                    "id": "IHHZLP2NJ7",
+                    "labels": [
+                        "GJV5PBNGFD",
+                        "BITITUDAXD"
+                    ],
+                    "name": "V8TGSTB9CM",
+                    "passed": false,
+                    "severity": "HIGH"
+                }
+            ],
+            "unifiedAssetId": "W00SEBSOJZ",
+            "vulnerabilityStatus": {
+                "critical": 8,
+                "high": 4,
+                "low": 2,
+                "medium": 3
+            }
+        },
+        {
+            "accountId": "R1SA9C5H97",
+            "accountName": "IVAC8KYS7H",
+            "alertStatus": {
+                "critical": 4,
+                "high": 6,
+                "informational": 1,
+                "low": 8,
+                "medium": 3
+            },
+            "appNames": [
+                "YCLBCJSI4T",
+                "T2FC4ZVBVO"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "08ZD6P0FMK",
+            "name": "NREY0L5LGE",
+            "overallPassed": false,
+            "regionId": "X67HFAHH6W",
+            "regionName": "EXWUCGKNYC",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "RHUV171RSR",
+            "scannedPolicies": [
+                {
+                    "id": "EX8K7U4B7H",
+                    "labels": [
+                        "HDBZFK9HHL",
+                        "8P1RX09S33",
+                        "NAKQ540U4X"
+                    ],
+                    "name": "OA1WNQKU57",
+                    "passed": false,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "T1M6P33DSG",
+            "vulnerabilityStatus": {
+                "critical": 9,
+                "high": 1,
+                "low": 7,
+                "medium": 2
+            }
+        },
+        {
+            "accountId": "CO4VD73LDN",
+            "accountName": "8KGTXJPF1I",
+            "alertStatus": {
+                "critical": 2,
+                "high": 4,
+                "informational": 0,
+                "low": 10,
+                "medium": 3
+            },
+            "appNames": [
+                "P7SDC8G64I",
+                "W8HR8MV6UJ",
+                "6O08Y7WR8N"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "UOUEZBB94A",
+            "name": "U43NHYKXHV",
+            "overallPassed": true,
+            "regionId": "IZJDDQKNRB",
+            "regionName": "6TJVCQAQEC",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "IRFZDPWBFB",
+            "scannedPolicies": [
+                {
+                    "id": "IDE1MBYNY5",
+                    "labels": [
+                        "2OE5WPT6XJ",
+                        "CUCTZAB015"
+                    ],
+                    "name": "I32QIKW130",
+                    "passed": true,
+                    "severity": "LOW"
+                }
+            ],
+            "unifiedAssetId": "WBZ7P5VVW5",
+            "vulnerabilityStatus": {
+                "critical": 6,
+                "high": 6,
+                "low": 7,
+                "medium": 8
+            }
+        },
+        {
+            "accountId": "YNWPK49C9C",
+            "accountName": "0YHGS24LO6",
+            "alertStatus": {
+                "critical": 4,
+                "high": 1,
+                "informational": 1,
+                "low": 4,
+                "medium": 2
+            },
+            "appNames": [
+                "WSZU7DFU8H"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "6SOGZOXTHJ",
+            "name": "ZV74T6XRV3",
+            "overallPassed": false,
+            "regionId": "F8BRLGY52W",
+            "regionName": "UJ1TKUCBB7",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "SK047THPLV",
+            "scannedPolicies": [
+                {
+                    "id": "2IH0AUZQTC",
+                    "labels": [
+                        "6I8SRBHFCV",
+                        "UVF2OF8R2G"
+                    ],
+                    "name": "RMYZGKLC9Q",
+                    "passed": false,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "TSGIPTCO4V",
+            "vulnerabilityStatus": {
+                "critical": 1,
+                "high": 10,
+                "low": 10,
+                "medium": 10
+            }
+        },
+        {
+            "accountId": "LW8H7SDJ5D",
+            "accountName": "0AOK7BGBRF",
+            "alertStatus": {
+                "critical": 5,
+                "high": 7,
+                "informational": 8,
+                "low": 4,
+                "medium": 8
+            },
+            "appNames": [
+                "W7AA99AMYK",
+                "CVSYTLPBJ7"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "NT1HA7YP76",
+            "name": "BP7SPVYJEY",
+            "overallPassed": true,
+            "regionId": "LJ4W9UUFEP",
+            "regionName": "9YHAI1F5HV",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "RSK9YJZVDZ",
+            "scannedPolicies": [
+                {
+                    "id": "YUXZA8MOFO",
+                    "labels": [
+                        "SSTY3DLZ9S"
+                    ],
+                    "name": "711OXD0CTU",
+                    "passed": true,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "FHCPQTUJPT",
+            "vulnerabilityStatus": {
+                "critical": 4,
+                "high": 7,
+                "low": 4,
+                "medium": 1
+            }
+        },
+        {
+            "accountId": "V7ARX07WBD",
+            "accountName": "U2KMG15HVJ",
+            "alertStatus": {
+                "critical": 5,
+                "high": 1,
+                "informational": 2,
+                "low": 3,
+                "medium": 8
+            },
+            "appNames": [
+                "F3MCTEM2HU",
+                "FB29J6GV6U"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "N8WDHSJWYF",
+            "name": "8KYRHXKSQO",
+            "overallPassed": true,
+            "regionId": "MDWSC3XVZE",
+            "regionName": "YZ4532ORPQ",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "3676MXUEF4",
+            "scannedPolicies": [
+                {
+                    "id": "OK1JWNZX53",
+                    "labels": [
+                        "RZ3223H7E6",
+                        "9F5CEKV4OY",
+                        "W526PQR0T7"
+                    ],
+                    "name": "AESUK6RP5K",
+                    "passed": false,
+                    "severity": "HIGH"
+                }
+            ],
+            "unifiedAssetId": "C5JV2ARISP",
+            "vulnerabilityStatus": {
+                "critical": 2,
+                "high": 4,
+                "low": 8,
+                "medium": 4
+            }
+        },
+        {
+            "accountId": "F6Y5I6LBVA",
+            "accountName": "OARL278H9A",
+            "alertStatus": {
+                "critical": 7,
+                "high": 10,
+                "informational": 4,
+                "low": 5,
+                "medium": 4
+            },
+            "appNames": [
+                "AY2G26O69K",
+                "3UTYDRAPD4"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "Y7BPBFU6Z5",
+            "name": "JTUY7FG54B",
+            "overallPassed": false,
+            "regionId": "L6TSWTMB0N",
+            "regionName": "93BBU1FG2Q",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "AP6LMNJG5X",
+            "scannedPolicies": [
+                {
+                    "id": "QC76T1Z9QX",
+                    "labels": [
+                        "VYPM5CB2XQ"
+                    ],
+                    "name": "SBORJXVTH7",
+                    "passed": false,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "7MRWXLYKMR",
+            "vulnerabilityStatus": {
+                "critical": 8,
+                "high": 4,
+                "low": 4,
+                "medium": 4
+            }
+        },
+        {
+            "accountId": "7F4AC0SQJT",
+            "accountName": "7TY6LRJ7MP",
+            "alertStatus": {
+                "critical": 10,
+                "high": 10,
+                "informational": 5,
+                "low": 6,
+                "medium": 3
+            },
+            "appNames": [
+                "61B0LMS6NY"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "TLJKQYA0Q0",
+            "name": "NQD1KCNDL3",
+            "overallPassed": false,
+            "regionId": "XARCAKD6W9",
+            "regionName": "845AI6R2UG",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "G54DMZA7HM",
+            "scannedPolicies": [
+                {
+                    "id": "5V9GF4NA9C",
+                    "labels": [
+                        "EOOX9HNYSX"
+                    ],
+                    "name": "M35V2LVQMM",
+                    "passed": false,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "YKH1ZMMD1R",
+            "vulnerabilityStatus": {
+                "critical": 1,
+                "high": 5,
+                "low": 7,
+                "medium": 5
+            }
+        },
+        {
+            "accountId": "NHQYQLBQKI",
+            "accountName": "8OFBPMPA75",
+            "alertStatus": {
+                "critical": 7,
+                "high": 4,
+                "informational": 2,
+                "low": 4,
+                "medium": 2
+            },
+            "appNames": [
+                "S7N0NTZQX9",
+                "W1F4ZPCVY8"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "TFUBH6FVI0",
+            "name": "FHR4YVQ06Q",
+            "overallPassed": true,
+            "regionId": "BS10ZVXERN",
+            "regionName": "CLU2VFEX8E",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "FDAZUGP051",
+            "scannedPolicies": [
+                {
+                    "id": "5RUAO1VMIZ",
+                    "labels": [
+                        "2JITTB7ZD0",
+                        "OVDHW3Y66H",
+                        "BF23N948QJ"
+                    ],
+                    "name": "F8TA3BFNZ9",
+                    "passed": true,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "BKN36GVQ2F",
+            "vulnerabilityStatus": {
+                "critical": 9,
+                "high": 3,
+                "low": 9,
+                "medium": 10
+            }
+        },
+        {
+            "accountId": "CH6UE4K81C",
+            "accountName": "HE895M0G4W",
+            "alertStatus": {
+                "critical": 7,
+                "high": 1,
+                "informational": 2,
+                "low": 7,
+                "medium": 0
+            },
+            "appNames": [
+                "QA0ULP1PXH"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "L7BSMOY4BO",
+            "name": "PW1WRZHI2L",
+            "overallPassed": false,
+            "regionId": "IHD0O7U8PI",
+            "regionName": "2AODFUVIS5",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "3MMNSCL33L",
+            "scannedPolicies": [
+                {
+                    "id": "1YF7EANCHQ",
+                    "labels": [
+                        "1IWX45B41P"
+                    ],
+                    "name": "T09NFFF92C",
+                    "passed": false,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "0UQ8O7N8Q6",
+            "vulnerabilityStatus": {
+                "critical": 5,
+                "high": 6,
+                "low": 9,
+                "medium": 9
+            }
+        },
+        {
+            "accountId": "9ZRDFLNHJX",
+            "accountName": "CW4SIORHIX",
+            "alertStatus": {
+                "critical": 3,
+                "high": 7,
+                "informational": 5,
+                "low": 4,
+                "medium": 8
+            },
+            "appNames": [
+                "232TC7O6Y5",
+                "6IB299R8W1"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "4FSWK7PGTT",
+            "name": "GF9MJX865X",
+            "overallPassed": true,
+            "regionId": "NN0A8GF9IV",
+            "regionName": "CVUYU0NUEI",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "KK09H9JYYE",
+            "scannedPolicies": [
+                {
+                    "id": "5MH7HJG38T",
+                    "labels": [
+                        "P60AIK8J1W",
+                        "5JUT5BO026",
+                        "ZTI5BTNQ4O"
+                    ],
+                    "name": "JSTYATQDPY",
+                    "passed": false,
+                    "severity": "HIGH"
+                }
+            ],
+            "unifiedAssetId": "0ZITC74X7J",
+            "vulnerabilityStatus": {
+                "critical": 10,
+                "high": 1,
+                "low": 2,
+                "medium": 0
+            }
+        },
+        {
+            "accountId": "9S3EPIYSDM",
+            "accountName": "AYWF7D21BT",
+            "alertStatus": {
+                "critical": 7,
+                "high": 10,
+                "informational": 9,
+                "low": 7,
+                "medium": 8
+            },
+            "appNames": [
+                "EGUA4GQHYM",
+                "NNF1OFL6D0"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "ICEGC9RY1O",
+            "name": "5N7KG6ILSE",
+            "overallPassed": false,
+            "regionId": "WFX1PK4FEW",
+            "regionName": "MAOCHRTLVL",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "XPCW24HWOE",
+            "scannedPolicies": [
+                {
+                    "id": "FXIO8QQGHP",
+                    "labels": [
+                        "13MFU1ESN1",
+                        "P7KCRDL3PN"
+                    ],
+                    "name": "CODUM0QUIC",
+                    "passed": true,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "NVXRY2X2VZ",
+            "vulnerabilityStatus": {
+                "critical": 5,
+                "high": 0,
+                "low": 9,
+                "medium": 7
+            }
+        },
+        {
+            "accountId": "U7SBADOUPI",
+            "accountName": "PBMWVI78FX",
+            "alertStatus": {
+                "critical": 7,
+                "high": 0,
+                "informational": 10,
+                "low": 0,
+                "medium": 3
+            },
+            "appNames": [
+                "FIXB2I9DH1",
+                "NGC88TXS0K"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "QCOP7300WD",
+            "name": "BH7UKSYPJC",
+            "overallPassed": true,
+            "regionId": "YV6ZRVMD5T",
+            "regionName": "ZDL2WOWPF9",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "M8HX21AO0I",
+            "scannedPolicies": [
+                {
+                    "id": "QOQEJUA01Y",
+                    "labels": [
+                        "TT21DUFKFO"
+                    ],
+                    "name": "OT1HXXGDEZ",
+                    "passed": true,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "HC6DNXBOLW",
+            "vulnerabilityStatus": {
+                "critical": 2,
+                "high": 10,
+                "low": 8,
+                "medium": 9
+            }
+        },
+        {
+            "accountId": "XER1CVW91V",
+            "accountName": "VU2SFYKJ8Q",
+            "alertStatus": {
+                "critical": 1,
+                "high": 0,
+                "informational": 4,
+                "low": 2,
+                "medium": 7
+            },
+            "appNames": [
+                "KEEJWP0WCC",
+                "II7U6FNPSU"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "0J25Y80CQZ",
+            "name": "RQ6PA5DML8",
+            "overallPassed": false,
+            "regionId": "S3FS2D2EW1",
+            "regionName": "H7PY9AQ53H",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "YYRWP4LURS",
+            "scannedPolicies": [
+                {
+                    "id": "YJSAMFZZFF",
+                    "labels": [
+                        "T99CN9Y9SC",
+                        "O5XCLTCL65",
+                        "ILHA51LY2C"
+                    ],
+                    "name": "IW6IYZ6H4X",
+                    "passed": false,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "JLIYAS2L09",
+            "vulnerabilityStatus": {
+                "critical": 3,
+                "high": 5,
+                "low": 2,
+                "medium": 1
+            }
+        },
+        {
+            "accountId": "DQICSE60AU",
+            "accountName": "WKC1KT7VGG",
+            "alertStatus": {
+                "critical": 3,
+                "high": 10,
+                "informational": 9,
+                "low": 5,
+                "medium": 2
+            },
+            "appNames": [
+                "23Y80GSBGW"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "CXH5WN0O6Q",
+            "name": "0QKH7OGJ1G",
+            "overallPassed": true,
+            "regionId": "N4I806GZE2",
+            "regionName": "FN79K7KZFT",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "HJP4ZRKMSK",
+            "scannedPolicies": [
+                {
+                    "id": "MA4V6THULI",
+                    "labels": [
+                        "DQ76B582NW"
+                    ],
+                    "name": "O7BITDTNSQ",
+                    "passed": true,
+                    "severity": "LOW"
+                }
+            ],
+            "unifiedAssetId": "8ROZDZ2OK2",
+            "vulnerabilityStatus": {
+                "critical": 5,
+                "high": 5,
+                "low": 5,
+                "medium": 8
+            }
+        },
+        {
+            "accountId": "4XDLYYHFKB",
+            "accountName": "ET1MNZMPYH",
+            "alertStatus": {
+                "critical": 0,
+                "high": 1,
+                "informational": 6,
+                "low": 3,
+                "medium": 1
+            },
+            "appNames": [
+                "Q7MUC0XIGK",
+                "R46E7TF566",
+                "OYDZYC1KE5"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "BSPXM0JDND",
+            "name": "XC137P9ARU",
+            "overallPassed": true,
+            "regionId": "F82ISXK64Q",
+            "regionName": "QB1MATTYYW",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "U0NRI6E7HN",
+            "scannedPolicies": [
+                {
+                    "id": "TEVAIDM98I",
+                    "labels": [
+                        "NZZODSKYI0",
+                        "Z3T1YZO316"
+                    ],
+                    "name": "WF64FJZYE9",
+                    "passed": false,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "NTZR45LS81",
+            "vulnerabilityStatus": {
+                "critical": 0,
+                "high": 1,
+                "low": 7,
+                "medium": 10
+            }
+        },
+        {
+            "accountId": "TIV6CWU6OE",
+            "accountName": "6UC5RYE064",
+            "alertStatus": {
+                "critical": 8,
+                "high": 10,
+                "informational": 4,
+                "low": 5,
+                "medium": 3
+            },
+            "appNames": [
+                "O8FMXEO8Z4"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "LZT0N6T0L9",
+            "name": "QKIWAW8TP8",
+            "overallPassed": true,
+            "regionId": "GCQZPMBBCL",
+            "regionName": "DYS6Q6N2SL",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "3J23V9FZOS",
+            "scannedPolicies": [
+                {
+                    "id": "JOR5Z4HVKS",
+                    "labels": [
+                        "LR2ENI87QQ"
+                    ],
+                    "name": "9ZTKWGKRBM",
+                    "passed": false,
+                    "severity": "HIGH"
+                }
+            ],
+            "unifiedAssetId": "Y54UC9LV8A",
+            "vulnerabilityStatus": {
+                "critical": 1,
+                "high": 1,
+                "low": 0,
+                "medium": 0
+            }
+        },
+        {
+            "accountId": "RT0LOOU607",
+            "accountName": "MYNRI04LP6",
+            "alertStatus": {
+                "critical": 8,
+                "high": 7,
+                "informational": 7,
+                "low": 2,
+                "medium": 3
+            },
+            "appNames": [
+                "UQ89QM6NLR",
+                "MUBBMR9ZCQ"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "EW7GX9S0S6",
+            "name": "E5VY9K8ZX0",
+            "overallPassed": true,
+            "regionId": "BVMERA4R4T",
+            "regionName": "AV84P9FCAR",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "Y06QOJEBLB",
+            "scannedPolicies": [
+                {
+                    "id": "UCJ1R3YB69",
+                    "labels": [
+                        "8FSJDBYEMN",
+                        "Z5JO7G8QG5",
+                        "83VGA7GQ2D"
+                    ],
+                    "name": "24V7PN5SJV",
+                    "passed": true,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "BU6DZI82MV",
+            "vulnerabilityStatus": {
+                "critical": 9,
+                "high": 10,
+                "low": 5,
+                "medium": 6
+            }
+        },
+        {
+            "accountId": "P4GU9DBAWQ",
+            "accountName": "5Z6BUCZUWX",
+            "alertStatus": {
+                "critical": 6,
+                "high": 5,
+                "informational": 1,
+                "low": 8,
+                "medium": 1
+            },
+            "appNames": [
+                "7IU3B4MQNF",
+                "ZDTFOGRJN2",
+                "EB9DEIW4O5"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "24FDNEGQAA",
+            "name": "88JCKF77HO",
+            "overallPassed": true,
+            "regionId": "K2HIZXBQ6D",
+            "regionName": "LXD7PQJ0UU",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "L38RP2JQ2Y",
+            "scannedPolicies": [
+                {
+                    "id": "6OGE78RY82",
+                    "labels": [
+                        "7VNNDU78PM",
+                        "5XXC3CYMTY"
+                    ],
+                    "name": "PM36619F4I",
+                    "passed": true,
+                    "severity": "HIGH"
+                }
+            ],
+            "unifiedAssetId": "P2QDJP14MT",
+            "vulnerabilityStatus": {
+                "critical": 10,
+                "high": 4,
+                "low": 3,
+                "medium": 5
+            }
+        },
+        {
+            "accountId": "YKZHWVOW74",
+            "accountName": "LGJ3L4WZII",
+            "alertStatus": {
+                "critical": 6,
+                "high": 7,
+                "informational": 0,
+                "low": 5,
+                "medium": 5
+            },
+            "appNames": [
+                "6TAKIWXPMO"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "3YUG4LONIK",
+            "name": "YARJRCBB8S",
+            "overallPassed": true,
+            "regionId": "6MFI4B1YH9",
+            "regionName": "1YVD7W9I53",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "6AAKWL1QS5",
+            "scannedPolicies": [
+                {
+                    "id": "0MTCR0P26J",
+                    "labels": [
+                        "972ZA0JQV8",
+                        "8ATF11MYK3",
+                        "1MCQK0SBCW"
+                    ],
+                    "name": "T0QF1R3VLH",
+                    "passed": true,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "N3B9PPC935",
+            "vulnerabilityStatus": {
+                "critical": 2,
+                "high": 0,
+                "low": 7,
+                "medium": 3
+            }
+        },
+        {
+            "accountId": "U05VW5B8QW",
+            "accountName": "GQSPGOMBOI",
+            "alertStatus": {
+                "critical": 9,
+                "high": 9,
+                "informational": 8,
+                "low": 3,
+                "medium": 0
+            },
+            "appNames": [
+                "MJ4W4G9VHW"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "5VRI64BU20",
+            "name": "IFBM4LDDV2",
+            "overallPassed": true,
+            "regionId": "YQQMJEYX7D",
+            "regionName": "1VTNRT67OG",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "J0U4RDHX3P",
+            "scannedPolicies": [
+                {
+                    "id": "5NRI70KBRU",
+                    "labels": [
+                        "NF50TFSL77"
+                    ],
+                    "name": "6LH2XCBKCK",
+                    "passed": true,
+                    "severity": "LOW"
+                }
+            ],
+            "unifiedAssetId": "NK1K894N27",
+            "vulnerabilityStatus": {
+                "critical": 2,
+                "high": 3,
+                "low": 10,
+                "medium": 3
+            }
+        },
+        {
+            "accountId": "QMF6JXNR2V",
+            "accountName": "PASXPOJ9JU",
+            "alertStatus": {
+                "critical": 9,
+                "high": 0,
+                "informational": 9,
+                "low": 0,
+                "medium": 3
+            },
+            "appNames": [
+                "NXH5S4ZGC0",
+                "P38UHOS974"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "VYMWWPV378",
+            "name": "NR4EITMF9U",
+            "overallPassed": true,
+            "regionId": "JB6PEG9ZHU",
+            "regionName": "O6RK0MNDFC",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "IFHCYU7SBK",
+            "scannedPolicies": [
+                {
+                    "id": "262JL81HSP",
+                    "labels": [
+                        "MISVSL6F7H",
+                        "QZ9FQQ9XCR",
+                        "6B948H5SPH"
+                    ],
+                    "name": "I5PPMDE4R2",
+                    "passed": true,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "LR77NUSWPQ",
+            "vulnerabilityStatus": {
+                "critical": 2,
+                "high": 4,
+                "low": 0,
+                "medium": 0
+            }
+        },
+        {
+            "accountId": "1FMBX1LU1N",
+            "accountName": "Y49107C0VO",
+            "alertStatus": {
+                "critical": 9,
+                "high": 8,
+                "informational": 9,
+                "low": 10,
+                "medium": 3
+            },
+            "appNames": [
+                "DMJRJ1HG52"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "836V4TJ0TJ",
+            "name": "KVUACJLR8W",
+            "overallPassed": true,
+            "regionId": "ISFYWVT9Q3",
+            "regionName": "1TW2K1XE8C",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "3WOS0IGF2Z",
+            "scannedPolicies": [
+                {
+                    "id": "YY52E5LWUV",
+                    "labels": [
+                        "UZ3W6G4QXZ",
+                        "YV49NZGQ6Z",
+                        "ZM9SRJZRUW"
+                    ],
+                    "name": "L1GG42I8XG",
+                    "passed": true,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "3VG00U8MPX",
+            "vulnerabilityStatus": {
+                "critical": 1,
+                "high": 0,
+                "low": 6,
+                "medium": 10
+            }
+        },
+        {
+            "accountId": "J8YEUWIRNP",
+            "accountName": "383A0K2IGY",
+            "alertStatus": {
+                "critical": 4,
+                "high": 2,
+                "informational": 4,
+                "low": 2,
+                "medium": 1
+            },
+            "appNames": [
+                "DSPLIMN7X5",
+                "6PUNDCT75P",
+                "W5ZI3UP0SE"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "2U97ONQHA9",
+            "name": "IVGZ3A7Z6M",
+            "overallPassed": false,
+            "regionId": "4YXJ9QX7KC",
+            "regionName": "CK14FZYQ4P",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "9I2PU6LPAF",
+            "scannedPolicies": [
+                {
+                    "id": "8AP3FD3E56",
+                    "labels": [
+                        "GE6UMOPA0K",
+                        "MXKXTKSEXK"
+                    ],
+                    "name": "YJ7M8NFDCK",
+                    "passed": true,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "UTNDQF2IL6",
+            "vulnerabilityStatus": {
+                "critical": 3,
+                "high": 3,
+                "low": 10,
+                "medium": 3
+            }
+        },
+        {
+            "accountId": "TSLZXZ3F88",
+            "accountName": "J4J9GIB25W",
+            "alertStatus": {
+                "critical": 9,
+                "high": 7,
+                "informational": 1,
+                "low": 10,
+                "medium": 6
+            },
+            "appNames": [
+                "ODHTNFYV7R"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "S37SOAUFYX",
+            "name": "6LDYRMW7KF",
+            "overallPassed": false,
+            "regionId": "G3WGZUJP5N",
+            "regionName": "XL17VBIPPM",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "J1I54A1IIX",
+            "scannedPolicies": [
+                {
+                    "id": "34XXU212AG",
+                    "labels": [
+                        "IFGIPQR2NG",
+                        "ZHLNM2Q3SY",
+                        "6DJ9DIX15A"
+                    ],
+                    "name": "7RSZW0JIK4",
+                    "passed": false,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "TAAXOLBANS",
+            "vulnerabilityStatus": {
+                "critical": 5,
+                "high": 7,
+                "low": 3,
+                "medium": 9
+            }
+        },
+        {
+            "accountId": "UM5UZ0D0W4",
+            "accountName": "BMBWU5NLKE",
+            "alertStatus": {
+                "critical": 1,
+                "high": 1,
+                "informational": 2,
+                "low": 9,
+                "medium": 3
+            },
+            "appNames": [
+                "MH94FVA9PH",
+                "VUF1CTBG04"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "KFJI357ZZM",
+            "name": "UF46RELC6T",
+            "overallPassed": false,
+            "regionId": "IOPFP2PFRH",
+            "regionName": "PKDQOTMFK2",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "D0YY791WDX",
+            "scannedPolicies": [
+                {
+                    "id": "ISH6K2JF54",
+                    "labels": [
+                        "W16VLSFR28",
+                        "ROYJ2LP9DY",
+                        "POVXUL2CV4"
+                    ],
+                    "name": "0HDS4JDA07",
+                    "passed": false,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "GZSGWP97U7",
+            "vulnerabilityStatus": {
+                "critical": 2,
+                "high": 0,
+                "low": 10,
+                "medium": 3
+            }
+        },
+        {
+            "accountId": "OYOY2ZHE5T",
+            "accountName": "99QKYEPDTZ",
+            "alertStatus": {
+                "critical": 2,
+                "high": 4,
+                "informational": 0,
+                "low": 4,
+                "medium": 5
+            },
+            "appNames": [
+                "3U8824R4B6",
+                "F6CIWVADFO",
+                "6IGFAKMDJY"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "9AYXF5JS13",
+            "name": "WA9Q0P6SSB",
+            "overallPassed": false,
+            "regionId": "N6V8DEEB85",
+            "regionName": "E3MMINQYI7",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "CT74XQ06IU",
+            "scannedPolicies": [
+                {
+                    "id": "WTGJXP4V6B",
+                    "labels": [
+                        "5ETNEFIA3L",
+                        "6QDRY6T5IC",
+                        "NN08Z9UWDH"
+                    ],
+                    "name": "H0OC4HC84U",
+                    "passed": false,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "OP31QXRH3I",
+            "vulnerabilityStatus": {
+                "critical": 8,
+                "high": 1,
+                "low": 7,
+                "medium": 8
+            }
+        },
+        {
+            "accountId": "PPVB9ZKXCZ",
+            "accountName": "9QQBL0RH6M",
+            "alertStatus": {
+                "critical": 8,
+                "high": 9,
+                "informational": 4,
+                "low": 3,
+                "medium": 1
+            },
+            "appNames": [
+                "88UN3K49V6"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "AQ1P36QPX5",
+            "name": "2CHN9H700B",
+            "overallPassed": true,
+            "regionId": "OV4CQAJNCM",
+            "regionName": "L43W19BEC0",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "X3K408LCFU",
+            "scannedPolicies": [
+                {
+                    "id": "PH28RPLMJB",
+                    "labels": [
+                        "BGJVJIE0HQ",
+                        "35RSM6QF9A"
+                    ],
+                    "name": "CLPMXHVY9K",
+                    "passed": false,
+                    "severity": "LOW"
+                }
+            ],
+            "unifiedAssetId": "E8LZUZM6AA",
+            "vulnerabilityStatus": {
+                "critical": 5,
+                "high": 3,
+                "low": 10,
+                "medium": 6
+            }
+        },
+        {
+            "accountId": "81ADVZDI32",
+            "accountName": "ROB62TPLH6",
+            "alertStatus": {
+                "critical": 7,
+                "high": 2,
+                "informational": 3,
+                "low": 6,
+                "medium": 7
+            },
+            "appNames": [
+                "9NBYPOWOMZ"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "HQF8WDF2MR",
+            "name": "WHRQQWJ2PF",
+            "overallPassed": false,
+            "regionId": "AYSZ1DEDEW",
+            "regionName": "J21LVMAMTK",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "EPFOYV60YZ",
+            "scannedPolicies": [
+                {
+                    "id": "I4VGC6UZ4Y",
+                    "labels": [
+                        "WEQG5ZGYDO"
+                    ],
+                    "name": "V02TZNUD19",
+                    "passed": true,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "BPCZ2FY7PC",
+            "vulnerabilityStatus": {
+                "critical": 3,
+                "high": 10,
+                "low": 0,
+                "medium": 7
+            }
+        },
+        {
+            "accountId": "1DJ5Z3A725",
+            "accountName": "XIV71DVJGK",
+            "alertStatus": {
+                "critical": 3,
+                "high": 0,
+                "informational": 5,
+                "low": 8,
+                "medium": 3
+            },
+            "appNames": [
+                "5ZM0DI29MO",
+                "RL4JREN1Y6"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "5REVJQ09AU",
+            "name": "MV7Y1BOYW1",
+            "overallPassed": false,
+            "regionId": "OEO2Q7Q982",
+            "regionName": "HDZSELAA9Z",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "C0IAUY5PEG",
+            "scannedPolicies": [
+                {
+                    "id": "1L7LBF0IPN",
+                    "labels": [
+                        "TM2DXSUVI9",
+                        "5UONZUJSD2"
+                    ],
+                    "name": "P4LUSHTQAV",
+                    "passed": false,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "73RT7UK047",
+            "vulnerabilityStatus": {
+                "critical": 8,
+                "high": 8,
+                "low": 7,
+                "medium": 8
+            }
+        },
+        {
+            "accountId": "6MIJ0CZGHF",
+            "accountName": "R88EB1LVQX",
+            "alertStatus": {
+                "critical": 5,
+                "high": 7,
+                "informational": 7,
+                "low": 3,
+                "medium": 3
+            },
+            "appNames": [
+                "W1BLWDZYB9",
+                "G7M8670XT3",
+                "H0R8KD0C15"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "55BN3JYD17",
+            "name": "LG94U8S6HV",
+            "overallPassed": false,
+            "regionId": "PQR8I0LQGT",
+            "regionName": "48FYJS6RLY",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "IZUXQUO5WM",
+            "scannedPolicies": [
+                {
+                    "id": "M0SOWPQ7VQ",
+                    "labels": [
+                        "MOXG0P7QG0",
+                        "5CZU9MFG2Y",
+                        "BDWNB57KNK"
+                    ],
+                    "name": "0K0OCK3YOB",
+                    "passed": false,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "PX8JWD1HWX",
+            "vulnerabilityStatus": {
+                "critical": 0,
+                "high": 9,
+                "low": 6,
+                "medium": 3
+            }
+        },
+        {
+            "accountId": "GZC3R1NW2S",
+            "accountName": "KV7ETHN9S4",
+            "alertStatus": {
+                "critical": 10,
+                "high": 9,
+                "informational": 8,
+                "low": 8,
+                "medium": 5
+            },
+            "appNames": [
+                "YR716NI61T"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "QDDXU1RSKE",
+            "name": "NHYT9Q16CS",
+            "overallPassed": false,
+            "regionId": "2SUE6AEXGY",
+            "regionName": "IDCLWQHD9S",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "2TJX5KDH1W",
+            "scannedPolicies": [
+                {
+                    "id": "CGU3VUHLJZ",
+                    "labels": [
+                        "TH5AIG7SSU"
+                    ],
+                    "name": "V11TVUEWPO",
+                    "passed": true,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "0E9IVJAH1D",
+            "vulnerabilityStatus": {
+                "critical": 9,
+                "high": 7,
+                "low": 1,
+                "medium": 2
+            }
+        },
+        {
+            "accountId": "F452SKBY0B",
+            "accountName": "S5A2W53Q2H",
+            "alertStatus": {
+                "critical": 0,
+                "high": 3,
+                "informational": 1,
+                "low": 8,
+                "medium": 0
+            },
+            "appNames": [
+                "LCXD52DUC6",
+                "PSD0Z5RP9B",
+                "9UTW382MMN"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "VDEMLXD0A7",
+            "name": "A466E7UBL8",
+            "overallPassed": true,
+            "regionId": "CP9W79KN09",
+            "regionName": "7UNW19L23N",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "C8162KUDQ6",
+            "scannedPolicies": [
+                {
+                    "id": "OHK3F44412",
+                    "labels": [
+                        "F4YCROT0KD",
+                        "K35C4L6ULX",
+                        "WKJ8118F7G"
+                    ],
+                    "name": "JJ7HDDF226",
+                    "passed": true,
+                    "severity": "HIGH"
+                }
+            ],
+            "unifiedAssetId": "YU0YA7215K",
+            "vulnerabilityStatus": {
+                "critical": 7,
+                "high": 3,
+                "low": 4,
+                "medium": 10
+            }
+        },
+        {
+            "accountId": "19A1YQXTEL",
+            "accountName": "ZIR99NQEQY",
+            "alertStatus": {
+                "critical": 10,
+                "high": 8,
+                "informational": 10,
+                "low": 7,
+                "medium": 8
+            },
+            "appNames": [
+                "Q2OJLS0LUG",
+                "VDDUJ4IC7N"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "7DQLGVSU0W",
+            "name": "RMCE6N5CYO",
+            "overallPassed": false,
+            "regionId": "B93IPIP9U5",
+            "regionName": "UCLHAQ5XDY",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "0MN64ITT73",
+            "scannedPolicies": [
+                {
+                    "id": "HHG7QHQYDK",
+                    "labels": [
+                        "ZOTJ1H6XBG",
+                        "XSB8TFST7M"
+                    ],
+                    "name": "QKBLLIJUOO",
+                    "passed": true,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "9VYSSME4DK",
+            "vulnerabilityStatus": {
+                "critical": 9,
+                "high": 0,
+                "low": 0,
+                "medium": 6
+            }
+        },
+        {
+            "accountId": "3HQ5G4G2ZL",
+            "accountName": "YZBK09S9JN",
+            "alertStatus": {
+                "critical": 4,
+                "high": 0,
+                "informational": 9,
+                "low": 4,
+                "medium": 10
+            },
+            "appNames": [
+                "40PTY932GZ",
+                "0IKYSF73VN",
+                "QNVKR1MFIO"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "49RQ3L076E",
+            "name": "QWMMGFBT7X",
+            "overallPassed": true,
+            "regionId": "2OX6SPMK9A",
+            "regionName": "EAH46WLCU2",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "EOBQCX4O0Y",
+            "scannedPolicies": [
+                {
+                    "id": "V9Q9CXJJL5",
+                    "labels": [
+                        "25IJIP5WRV",
+                        "NV1G45FXZC",
+                        "ZSCJG9OXJQ"
+                    ],
+                    "name": "RC2K8RIINQ",
+                    "passed": false,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "8MRMKIREJB",
+            "vulnerabilityStatus": {
+                "critical": 1,
+                "high": 5,
+                "low": 3,
+                "medium": 1
+            }
+        },
+        {
+            "accountId": "YUX91GX9RU",
+            "accountName": "UKAILN3KI1",
+            "alertStatus": {
+                "critical": 7,
+                "high": 6,
+                "informational": 0,
+                "low": 2,
+                "medium": 3
+            },
+            "appNames": [
+                "F1WOW0W3PQ",
+                "CXLVZDP6GJ"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "WTZK7A9TSR",
+            "name": "R3RHSWLLFB",
+            "overallPassed": true,
+            "regionId": "3ZTXJA3Q4G",
+            "regionName": "TDUAN8Z28M",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "EPQRPWYFJS",
+            "scannedPolicies": [
+                {
+                    "id": "5ZCIEJ7SE2",
+                    "labels": [
+                        "LBEJNV0ZFV",
+                        "52G6YHUBL9"
+                    ],
+                    "name": "4TWUPZ62V2",
+                    "passed": false,
+                    "severity": "HIGH"
+                }
+            ],
+            "unifiedAssetId": "FHRDOJVJ6B",
+            "vulnerabilityStatus": {
+                "critical": 6,
+                "high": 4,
+                "low": 5,
+                "medium": 6
+            }
+        },
+        {
+            "accountId": "Y4EQA7U700",
+            "accountName": "O8CL1FJUYP",
+            "alertStatus": {
+                "critical": 3,
+                "high": 4,
+                "informational": 6,
+                "low": 5,
+                "medium": 2
+            },
+            "appNames": [
+                "N00TDVDTHG"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "VMXIAB4BPF",
+            "name": "7J3JP1GXHI",
+            "overallPassed": true,
+            "regionId": "K23ZXONLSQ",
+            "regionName": "5DMTREHJRR",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "R7GBSZQL8A",
+            "scannedPolicies": [
+                {
+                    "id": "9QZM2QR8V1",
+                    "labels": [
+                        "UTLJL5FDGM",
+                        "ON29A9LFHX"
+                    ],
+                    "name": "5A9JQVJM3U",
+                    "passed": true,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "FGN6TDL46W",
+            "vulnerabilityStatus": {
+                "critical": 4,
+                "high": 4,
+                "low": 0,
+                "medium": 3
+            }
+        },
+        {
+            "accountId": "N826ZOSZI6",
+            "accountName": "4M2BXMMXO5",
+            "alertStatus": {
+                "critical": 1,
+                "high": 7,
+                "informational": 1,
+                "low": 9,
+                "medium": 0
+            },
+            "appNames": [
+                "9FE8GZWDJK",
+                "5FJJ9S3S58"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "H0QC0LM8UW",
+            "name": "G89X3LCKZ6",
+            "overallPassed": true,
+            "regionId": "4386P5I1XA",
+            "regionName": "IQAXXTII85",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "EOG26SS9HU",
+            "scannedPolicies": [
+                {
+                    "id": "QDC0O64IY3",
+                    "labels": [
+                        "YABHCJB2JI",
+                        "71CP09TQEK"
+                    ],
+                    "name": "WRCDP0OAN8",
+                    "passed": true,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "AQR423DJE5",
+            "vulnerabilityStatus": {
+                "critical": 0,
+                "high": 6,
+                "low": 2,
+                "medium": 7
+            }
+        },
+        {
+            "accountId": "WMEZ16HGRO",
+            "accountName": "QE296P4WLG",
+            "alertStatus": {
+                "critical": 0,
+                "high": 7,
+                "informational": 10,
+                "low": 2,
+                "medium": 4
+            },
+            "appNames": [
+                "A9BH2C26U5",
+                "VR18G9QGVQ",
+                "5QC1IZOBQR"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "8WTUQ8BX9J",
+            "name": "BPIJA8FQY6",
+            "overallPassed": true,
+            "regionId": "76IVY0549A",
+            "regionName": "37C913N5NE",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "U8GWC6KZ6B",
+            "scannedPolicies": [
+                {
+                    "id": "5B7117D7T3",
+                    "labels": [
+                        "SVRTZB4PRD",
+                        "648ZEY795W",
+                        "XEUBFOYQDW"
+                    ],
+                    "name": "YKNZGOYIVL",
+                    "passed": false,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "34QECYWMCG",
+            "vulnerabilityStatus": {
+                "critical": 7,
+                "high": 5,
+                "low": 8,
+                "medium": 4
+            }
+        },
+        {
+            "accountId": "MVYLAF5G1D",
+            "accountName": "C0L8DDE9ZX",
+            "alertStatus": {
+                "critical": 7,
+                "high": 9,
+                "informational": 10,
+                "low": 7,
+                "medium": 7
+            },
+            "appNames": [
+                "G0TDF8BTX9",
+                "24EY93SDN4"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "BW7Q5ZH3HC",
+            "name": "VTNLNA6WJA",
+            "overallPassed": true,
+            "regionId": "RAG5XICIZH",
+            "regionName": "TQN39Y18XA",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "G80VZAAQJ2",
+            "scannedPolicies": [
+                {
+                    "id": "MRJTC9RU5U",
+                    "labels": [
+                        "6BZJOL86WV",
+                        "L1XVHXDA08",
+                        "9RMPL0LJFM"
+                    ],
+                    "name": "ZGW8D0RVWA",
+                    "passed": true,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "6T2IDWEF7A",
+            "vulnerabilityStatus": {
+                "critical": 0,
+                "high": 10,
+                "low": 7,
+                "medium": 0
+            }
+        },
+        {
+            "accountId": "7ON09W9BXV",
+            "accountName": "XEX0WP64RG",
+            "alertStatus": {
+                "critical": 9,
+                "high": 2,
+                "informational": 2,
+                "low": 2,
+                "medium": 8
+            },
+            "appNames": [
+                "BS8LIMZO8T",
+                "3LCNWPZW6U",
+                "OTEEL8JM7L"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "FA1UCAV5TN",
+            "name": "JQF5AVV5IB",
+            "overallPassed": true,
+            "regionId": "4O35FYDYD1",
+            "regionName": "FHRMRG3YJX",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "M9ZWE1WFJ0",
+            "scannedPolicies": [
+                {
+                    "id": "TMJY4A95SZ",
+                    "labels": [
+                        "KUNL4TR7H2",
+                        "ZHZP1ZX7Y8"
+                    ],
+                    "name": "VJ3DQFHE5B",
+                    "passed": true,
+                    "severity": "INFORMATIONAL"
+                }
+            ],
+            "unifiedAssetId": "K2QCFGD6H4",
+            "vulnerabilityStatus": {
+                "critical": 1,
+                "high": 5,
+                "low": 1,
+                "medium": 5
+            }
+        },
+        {
+            "accountId": "SLH4756Z5E",
+            "accountName": "J81ZCGHL2O",
+            "alertStatus": {
+                "critical": 4,
+                "high": 7,
+                "informational": 8,
+                "low": 2,
+                "medium": 4
+            },
+            "appNames": [
+                "FM2QR3TEMY"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "SY6UQDL3BS",
+            "name": "W07TGM2GUG",
+            "overallPassed": false,
+            "regionId": "WJIGTDNBPP",
+            "regionName": "DB4V3071S2",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "62YOLQ28HD",
+            "scannedPolicies": [
+                {
+                    "id": "ALQW0N0JCI",
+                    "labels": [
+                        "NQNNQAEILY",
+                        "HK452LXA0A"
+                    ],
+                    "name": "WPHZOAXTN7",
+                    "passed": true,
+                    "severity": "LOW"
+                }
+            ],
+            "unifiedAssetId": "FF0IZX8NOY",
+            "vulnerabilityStatus": {
+                "critical": 1,
+                "high": 9,
+                "low": 0,
+                "medium": 7
+            }
+        },
+        {
+            "accountId": "C2NSFPC38Z",
+            "accountName": "RZI829HI7B",
+            "alertStatus": {
+                "critical": 4,
+                "high": 10,
+                "informational": 10,
+                "low": 7,
+                "medium": 6
+            },
+            "appNames": [
+                "QTC9VOLSWD",
+                "P27ND25D2E",
+                "ZW2UWQMAGD"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "F2H5X52TRT",
+            "name": "LPYOQQSTHX",
+            "overallPassed": false,
+            "regionId": "HEME86FQKX",
+            "regionName": "A4VTR8SER0",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "GT8N0RWE8I",
+            "scannedPolicies": [
+                {
+                    "id": "98KL09VUT1",
+                    "labels": [
+                        "U4NA5458FM"
+                    ],
+                    "name": "IQD6P2JFIV",
+                    "passed": false,
+                    "severity": "HIGH"
+                }
+            ],
+            "unifiedAssetId": "MWFH1RTJN7",
+            "vulnerabilityStatus": {
+                "critical": 1,
+                "high": 10,
+                "low": 8,
+                "medium": 0
+            }
+        },
+        {
+            "accountId": "9QIWKBNCR7",
+            "accountName": "523060VOGR",
+            "alertStatus": {
+                "critical": 0,
+                "high": 0,
+                "informational": 8,
+                "low": 0,
+                "medium": 5
+            },
+            "appNames": [
+                "C5TQIQZ6WZ",
+                "2637UF88YF",
+                "ZOV1Y9BDJS"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "A5AG865MTB",
+            "name": "Q5X243U8EU",
+            "overallPassed": false,
+            "regionId": "GK0WV8SJ0O",
+            "regionName": "MLB6CXSCYS",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "VMH4R73EHR",
+            "scannedPolicies": [
+                {
+                    "id": "O3K5RQB6JV",
+                    "labels": [
+                        "5RR29FWBOY",
+                        "0U32CJW2VV",
+                        "J9A38ODXF7"
+                    ],
+                    "name": "ZJPVCXMFI5",
+                    "passed": false,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "YZAL8D7YFQ",
+            "vulnerabilityStatus": {
+                "critical": 3,
+                "high": 6,
+                "low": 0,
+                "medium": 4
+            }
+        },
+        {
+            "accountId": "TH39GNKU1C",
+            "accountName": "UEUJD4B04I",
+            "alertStatus": {
+                "critical": 0,
+                "high": 7,
+                "informational": 5,
+                "low": 10,
+                "medium": 8
+            },
+            "appNames": [
+                "VP6HDH5425"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "I48N9QA3NO",
+            "name": "NJJV7RDGIE",
+            "overallPassed": false,
+            "regionId": "390HEOA796",
+            "regionName": "BMJYM0FT6V",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "IGRZNI2FB7",
+            "scannedPolicies": [
+                {
+                    "id": "XRTGLZ74TN",
+                    "labels": [
+                        "WQ2OHZ2024",
+                        "F5O6E40A0R",
+                        "016PRBWY6F"
+                    ],
+                    "name": "QEQRT002S2",
+                    "passed": true,
+                    "severity": "CRITICAL"
+                }
+            ],
+            "unifiedAssetId": "4Y5RUEHCWQ",
+            "vulnerabilityStatus": {
+                "critical": 7,
+                "high": 9,
+                "low": 2,
+                "medium": 4
+            }
+        },
+        {
+            "accountId": "0FVZ6O8BNV",
+            "accountName": "YMGRNQ0178",
+            "alertStatus": {
+                "critical": 3,
+                "high": 5,
+                "informational": 7,
+                "low": 9,
+                "medium": 0
+            },
+            "appNames": [
+                "QFSHJHLV77"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "MMEW75VJKD",
+            "name": "86J7I3X1PN",
+            "overallPassed": false,
+            "regionId": "3K7W1N1GSI",
+            "regionName": "1TFDD79TQ3",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "V2UKCJ25WO",
+            "scannedPolicies": [
+                {
+                    "id": "XTYKZKVPGG",
+                    "labels": [
+                        "32UZN9WWO5",
+                        "MNVV3I99UR"
+                    ],
+                    "name": "9YL7LE97WZ",
+                    "passed": true,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "DZ1Q024EKP",
+            "vulnerabilityStatus": {
+                "critical": 10,
+                "high": 5,
+                "low": 10,
+                "medium": 9
+            }
+        },
+        {
+            "accountId": "TII7Z67Z5R",
+            "accountName": "4DU6VZIL8Z",
+            "alertStatus": {
+                "critical": 0,
+                "high": 8,
+                "informational": 9,
+                "low": 1,
+                "medium": 4
+            },
+            "appNames": [
+                "Q81RYHIW50",
+                "AYUC5VLUX1"
+            ],
+            "assetType": "string",
+            "cloudType": "ALL",
+            "id": "5TOGRVCVCP",
+            "name": "DB0FDN2ZTF",
+            "overallPassed": true,
+            "regionId": "UBF5BGJ6LU",
+            "regionName": "MOXRWL77H9",
+            "resourceConfigJsonAvailable": true,
+            "resourceDetailsAvailable": true,
+            "rrn": "5O2Z5TCPR6",
+            "scannedPolicies": [
+                {
+                    "id": "I7ETGO80C2",
+                    "labels": [
+                        "0I3ZHHH4C5",
+                        "NZOMMLOC7E"
+                    ],
+                    "name": "M7MO4P0FJK",
+                    "passed": true,
+                    "severity": "MEDIUM"
+                }
+            ],
+            "unifiedAssetId": "CDQBE2JRMM",
+            "vulnerabilityStatus": {
+                "critical": 10,
+                "high": 2,
+                "low": 9,
+                "medium": 4
+            }
+        }
+    ],
+    "timestamp": 0,
+    "totalMatchedCount": 0
+}
